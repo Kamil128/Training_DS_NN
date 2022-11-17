@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea
+# files
+Sztuczne_sieci_neuronowe.pdf
+Glebokie_uczenie.pdf
+
